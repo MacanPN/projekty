@@ -159,3 +159,100 @@ fjord	fiord
 glacier	ľadovec
 lake	jazero
 entrance	vchod
+headroom	výška kajuty
+draught, draft	ponor
+waterline	vodoryska, čiara ponoru
+topside	bok trupu (nad vodoryskou)
+bottom	dno
+freeboard	voľný bok (lode)
+Rigging	Takeláž
+standing rigging	pevné lanovie
+running rigging	pohyblivé lanovie
+mast	sťažeň
+fore mast	predný sťažeň
+main mast	hlavný sťažeň
+mizzen mast	zadný (bezanový) sťažeň
+boom	rahno
+shroud	bočný steh, úpona
+fore stay	predný steh
+backstay	zadný steh
+bottle screw	skrutkovicový napínač
+track	koľajnička (na sťažni, na rahne)
+slide	bežec (na koľajničke)
+bowsprite	čeleň, čeleňový peň
+jib boom	kosatkové rahno, k. peň
+spinnaker boom	spinakrové rahno, s. peň 
+jury mast	havarijný sťažeň
+yard	rahno (na veľkej plachetnici), dĺžková miera
+halyard	výťah (plachty)
+topmast	sťažňová čnelka
+sheet	liace
+topping lift	topenanta
+rope	lano
+winch	navijak
+winch handle	kľuka navijaka
+Sails	Plachty
+Jibsail	kosatka
+fore staysail	predná stehovka
+fore sail	predná plachta (všeobecne)
+main sail	hlavná plachta
+mizzen sail	zadná (bezanová) vratiplachta
+topsail	vrcholová (čnelková) plachta
+stormjib	búrková kosatka
+spritsail	rozperová plachta
+square sail	rahnová plachta
+sailcloth	plachtová tkanina, plachtovina
+leading edge, leech	predný lem
+foot	dolný lem, stopa (dĺžková miera)
+head	horný roh
+batten	výstuha plachty (spira)
+batten pocket	vrecko výstuhy
+Materials	Materiály
+copper	med
+brass	mosadz
+bronze	bronz 
+nickel	nikel
+iron	železo
+cast iron	liatina
+steel	oceľ
+stainless steel	nehrdzavejúca oceľ
+zinc	zinok
+lead	olovo
+alloy	zliatina
+corrosion	korózia
+galvanise	galvanizácia, galvanizovaný
+plywood	preglejka
+moulded plywood	tvarovaná preglejka
+laminated plastic	laminát z umelej hmoty
+fibreglass	sklené vlákno
+glass cloth	sklená tkanina
+synthetic resin	umelá živica (napr. polyester,epoxyd a pod.)
+ash	jaseň
+oak	dub
+teak	teak
+mahogany	mahagón
+spruce	smrek
+pitch pine	borovica
+larch	červený smrek
+Navigation, Radio equipment	Navigácia, rádiové vybavenie
+navigational equipment	navigačné vybavenie
+magnetic compass	magnetický kompas 
+hand-bearing compass	ručný námerový kompas
+gyro compass	gyrokompas
+wind rose	kompasová ružica
+Pilot, pilot	plavebná príručka, lodivod
+Nautical Almanac	astronomická ročenka
+Tide Tables	Tabuľky prílivov a odlivov
+Tidal Streams Atlas	Atlas prílivových prúdov
+List of Lights	súpis svetiel, kniha svetiel
+deviation table	deviačná tabuľka
+sextant	sextant
+speed	rýchlosť (lode)
+nautical mile, nm	námorná milľa (1,852 km)
+knot, kn	uzol (jednotka rýchlosti, 1 nám.miľa/1 hod.), uzol (na lane)
+patent log	rýchlomer, log
+log line	šnúra rýchlomera
+log register	počítadlo
+speed variation indicator	ukazovateľ rýchlomera
+to sound	merat hĺbku, sondovať
+echo sounder	ultrazvukový hĺbkomer, echosonda
