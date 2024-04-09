@@ -1,179 +1,558 @@
-radio receiver - rádioprijímač
-
-radio mast - rádiový stožiar (s anténami)
-
-radio beacon - rádiomaják
-
-radar reflector - radarový odrážač
-
-receive - prijímať
-
-transmit-vysielať
-
-frequency-frekvencia
-
-wavelenght-vinová dĺžka
-
-long waves- dlhé viny
-
-short waves-krátke viny
-
-radio telephone - rádiotelefón
-
-aerial- anténa
-
-loop - rámová anténa (napr. rádionámernika)
-
-headphones- slúchadlá
-
-loudspeaker-reproduktor
-
-call sign-volací znak
-
-operating time pracovná doba (rádiostanice)
-
-range - dosah
-
-period perióda
-
-tune- ladiť
-
-time signal-časový signál
-
-Chart - Námorná mapa
-
-title - názov mapy
-
-scale - mierka
-
-North (N)-sever
-
-East (E)- východ
-
-South (5) - juh
-
-West (W)-západ
-
-latitude - zemepisná šírka
-
-longitude - zemepisná dĺžka
-
-meridian - poludnik
-
-parallel- rovnobežka
-
-equator - rovník
-
-correction - oprava (oprava mapy, o. na mape) 
-dangers - nebezpečenstvá (navigačné)
-
-rock-skala
-
-sunken rock-ponorená skala
-
-wreck-vrak
-
-bank- piesčina, piesočná lavica
-
-shoal - plytčina
-
-reef- útes
-
-coral reef-koralový útes
-
-obstruction - prekážka (navigačná)
-
-breakers-priboj
-
-limiting danger line - hranica navigačného nebezpečenstva
-
-isolated danger - samostatná prekážka (nebezpečenstvo)
-
-Buoys and beacons - Bóje a plavebné znaky
-
-cardinal system - krížový (kardinálny) systém navigačného značenia
-
-lateral system - bočný (laterálny) systém navigačného značenia
-
-light buoy - svetelná bója
-
-whistle buoy - bója s píšťaľou
-
-bell buoy-bója so zvonom
-
-can buoy - valcová bója
-
-conical buoy-kužeľová bója
-
-spherical buoy - guľová bója
-
-barrel buoy - sudová bója
-
-mooring buoy - úväzná, vyväzovacia bója
-
-topmark - štítový znak (na bóji)
-
-fixed beacon- pevný plavebný znak
-
-floating beacon- plávajúci plavebný znak (bója,plavák) 
-horizontal stripes - vodorovné pásy (na bóji)
-
-vertical stripes - zvislé pásy
-chequered - šachovnicový vzor (na bóji)
-
-Lights - Svetlá
-
-lighthouse - maják
-
-lightship, light vessel- majáková loď
-
-fixed light (F.)- stále svetlo
-
-flashing light (Fl.)- zábleskové svetlo
-
-quick flashing (Qk. Fl.)- mihajúce svetlo
-
-occulting light (Occ.)- prerušované svetlo 
-interrupted quick flashing (Int. Qk. Fl.)-prerušované mihajúce svetlo
-
-fixed and flashing (F. Fl.)- miešané svetlo (stále so zábleskami)
-
-alternating light (Alt.)- premenlivé svetlo
-
-leading light - nábežníkové (navádzacie) svetio
-
-upper light-horné (nábežníkové) svetlo
-
-lower light-dolné (nábežníkové) svetlo
-
-sector-sektor svetla
-
-obscured - zaclonený sektor
-
-visibility - viditeľnosť (svetla)
-
-range - dohľadnosť
-
-Coastline - Pobrežná línia
-
-steep coast-strmý breh
-
-cliffy coast -skalnaté, prudké pobrežie
-
-stony or shingly coast- kamenité alebo štrkovité (pobrežie)
-
-sand hill, dunes- pieskové duny
-
-foreshore - prilivová zóna (časť pobrežia zaplavovaného počas prilivu)
-
-Coastal features - Tvar pobrežia
-
-bay -zátoka
-
-fjord-fiord
-
-glacier - ľadovec
-
-lake - jazero
-
-entrance - vchod
+VESSEL	LOD
+Motor boat	motorový čln
+Motor vessel	motorová loď
+Seagoing ship	námorná loď
+Sailing vessel	plachetnica (obchodná)
+Yacht	jachta
+Motor yacht	motorová jachta
+Sailing yacht	plachetnica
+Cabin yacht	kajutová plachetnica
+Motor sailer	motorová plachetnica
+Sloop	šlup
+Ketch	keč
+Yawl	jola
+Schooner	škuner
+Dinghy	ľahký čln
+Craft	plavidlo
+Pleasure craft	rekreačné plavidlo
+Cruiser	turistická jachta
+Racer	pretekárska jachta
+Life boat	záchranný čln
+Rescue boat	záchranný čln
+Open boat	otvorený (bezkajutový) čln
+Displacement	výtlak
+Hull	trup
+Round bilged hull	zaoblený trup
+Hard chine hull	lomený trup
+Transom stern	plochá korma
+Fin keel	plutevový kýl
+Sail area	plocha oplachtění
+Forecastle	predná kajúta
+Chain locker	komora kotvovej reťaze
+Cabin, saloon	kajuta
+Berth	koja
+Quater berth	kormová koja
+Galley	kuchyňa
+Table	stôl
+Bulkhead	prieka
+Companion way	vchod do kajuty
+Engine compartment	motorový priestor
+Freshwater tank	tank na sladkú vodu
+Hatch	kryt
+Cockpit	kokpit
+Self-draining cockpit	samovylievací kokpit
+Sail locker	priestor na plachty
+Bow, forward	prora, predná časť lode
+Stern, aft	korma, zadná časť lode
+Length	dĺžka
+Length overall	najväčšia dĺžka
+Length on the waterline	najväčšia dĺžka na vodorez
+Beam, breath	šírka
+Port side	lavobok
+Starboard	pravobok
+Stem	čelén
+Wood keel	drevený kýl
+Ballast keel	balastová plutva
+Sternpost	kormovka
+Rudder	kormidlo
+Tiller	kormidlová páka
+Deck	paluba
+Boat deck	článková paluba
+Bilges	stoky
+Pulpit	predný kôš
+Stern pulpit	zadný kôš
+Guardrail	palubné zábradlie
+Lifeline	bezpečnostné lano
+Gros/net registered tonn	priestorovosť hrubá/čistá
+Planking	lišťová obšívka
+Skin	obšívka
+Frame	rebro, rám
+Floor	podlaha
+Depth	hĺbka
+Headroom	výška kajuty
+Draught, draft	ponor
+Waterline	vodná čiara
+Topside	bok trupu (nad vodnou čiarou)
+Bottom	dno
+Freeboard	voľný bok
+RIGGING	TAKELÁŽ
+Standing rigging	pevné lanoví
+Running rigging	pohyblivé lanoví
+Mast	stážen
+Fore mast	predný stážen
+Main mast	hlavný stážen
+Mizzen mast	zadný stážen
+Boom	rahno
+Shroud	bočný steh
+Fore stay	predný steh
+Backstay	zadný steh
+Bottle screw	skrutkovicový napínač
+Track	kolajnica
+Slide	bežec
+Bowsprite	čelén
+Jim boom	kosatkové rahno
+Spinaker boom	spinákerové rahno
+Jury mast	havarijný stážen
+Yard	rahno na veľkej plachetnici
+Halyard	vytah
+Topmast	stážna cnelka
+Sheet	liace
+Topping lift	topenáta
+ Rope	lano
+Winch	navijak
+Winch handle	kľuka navijáka
+SAILS	plachty
+Jibsail	kosatka
+Fore staysail	predná stehovka
+Fore sail	predná Plachta
+Main sail	hlavná plachta
+Mizzen sail	zadná vratiplachta
+Topsail	vrcholová plachta
+Stormjib	burkova kosatka
+Spritsail	rozprerova plachta
+Square sail	rahňová plachta
+Sail cloth	plachtovina
+Leading edge, leech	predný lem
+Foot	stopa
+Head	horný roh
+Batten	vystuha plachty
+Battem pocket	vrecko vystuhy
+MATERIALS	MATERIÁLY
+Copper	meď
+Brass	mosadz 
+Bronze	bronz
+Nickel	nikel
+Iron	železo
+Cast iron	liatina
+Steel	oceľ
+Stainless steel	nehrdzavejúca oceľ 
+Zinc	zinok
+Lead	olovo
+Alloy	zliatina
+Corrosion	korózia
+Galvanse	galvanizácia
+Plywood	preglejka
+Moulded plywood	tvarovaná preglejka
+Laminated plastic	laminát z umelé hmoty
+Fiberglass	sklenené vlákno
+Glass clot	sklená tkanina
+Synthetic resin	syntetická živica
+Ash	jaseň
+Oak	dub
+Teak	teak
+Mahogany	mahagón
+Spruce	Smrek
+Pitch pine	borovica
+Larch	červený smrek
+NAVIGATION	NAVIGÁCIA
+Navigation equipment	navigačné vybavenie
+Magnetic compass	magnetický kompas
+Hand-bearing  compass	ručný namerový kompas
+Gyro compass	gyro kompas
+Wind rose	kompasová ružica
+Pilot, pilot	plavebná príručka, loďvod
+Nautical Almanac	astronomická ročenka
+Tide Tables	tabuľky prílivov a odlivov
+Tidal Streams atlas	atlas prílivových prúdov
+List of lights	súpis svetiel
+Deviation table	deviačná tabuľka
+Sextant	sextant
+Speed	rýchlosť
+Nautical mile	námorná míľa
+Knot	uzol
+Patent log	rýchlomer
+Log line	šnúra rýchlomera
+Log register	počítadlo
+Speed variation indicator	ukazovateľ rýchlomera
+To sound	merat hĺbku
+Echo sounder	ultrazvukový hĺbkomer
+Radio receiver	rádioprijímač
+Radio mast	rádiový stožiar
+Radio beacon	radiomajak
+Radar reflector	radarový odrazník
+Receive	prijímať
+Transmit	vysielať
+Frequency	frekvencia
+Wavelength	vlnová dĺžka
+Long waves	dlhé vlny
+Short waves	krátke vlny
+Radio telephone	rádiový telefón
+Aerial	anténa
+Loop	rámová anténa
+Headphones	slúchadlá
+Loudspeaker	reproduktor
+Call sign	volací znak
+Operation time	pracovná doba
+Range	dosah
+Period	perióda
+Tune	ladit
+Time signal	časový signál
+CHART	NÁMORNÁ MAPA
+Title	názov mapy
+Scale	mierka
+Latitude	zem šírka
+Longitude	zem dĺžka
+Meridian	poľudník
+Parallel	rovnobežka
+Equator	rovník
+Correction	oprava
+Dangers	nebezpečenstvá
+Rock	skala
+Sunken rocks	ponorená skala
+Wreck	vrak
+Bank	piesčina
+Shoal	plytčina
+Reef	útes
+Obstruction	prekážka
+Breakers	priboj
+Limiting danger line	hranica navigačného nebezpečenstva
+Isolated danger	samostatná prekážka
+BUOYS AND BEACONS	Boje a plavebné znaky
+Cardinal system	krížový systém nav znak
+Lateral system	bokový systém nav znak
+Light buoy	svetelná boja
+Whistle buoy	boja s píšťalkou
+Bell buoy	boja so zvonom
+Can buoy	valcová boja
+Conical buoy	kuželová boja
+Spherical buoy	guľová boja
+Barrel buoy	sudová boja
+Mooring buoy	vyvažovacia boja
+Topmark	štítový znak
+Fixed beacon	pevný plavebný znak
+Floating beacon	plávajúci plavebný znak
+Horizontal stripes	vodorovné pásy
+Vertical stripes	zvislé pásy
+Chequered	šachovnicový vzor
+LIGHTS	svetlá
+Lighthouse	maják
+Lightship	majaková loď
+Fixed light	stále svetlo
+Flashing light	zábleskové svetlo
+Quick flashing light	mihajúce svetlo
+Occulting light	prerušované svetlo
+Interrupted quicka flashing	prerušované mihajúce svetlo
+Fixed and flashing	miešané svetlo stále so zábleskmi
+Alternating light	premenné svetlo
+Leading light	navádzacie svetlo
+Upper light	horné svetlo
+Lower light	spodné svetlo
+Sector	sektor svetla
+Obscured	zaclonený sektor
+Visibility	viditeľnosť
+Range	dohľadnosť
+COASTLINE	POBREŽNÁ LÍNIA
+Steep coast	strmý breh
+Cliffy coast	skalnaté pobrežie
+Stony or shingly coast	kamenité alebo štrkové pobrežie 
+Sand hill	pieskové duny
+Foreshore	prílivová zona
+COASTAL FEATURES	Tvar pobrežia
+Bay	zátoka
+Fjord	fjord
+Glacier	ľadovec
+Lake	jazero
+Entrance	vchod
+Passage	prechod
+Estuary, mouth	ústie
+Channel	kanál
+Anchorage	kotvisko
+Island	ostrov
+Islet	ostrovček
+Cape	mys
+Mountain	vrch
+Point	výbežok
+Hill	hora
+QUALITY OF BOTTOM	druhy dna
+Sand	piesok
+Mud	bahno 
+Clay	íl
+Gravel	štrk 
+ Shingle	hrubý štrk
+Pebbles	malé drobné kamene
+Stones	skaly
+Rock	skalnatý útes
+Soft	mäkký
+Hard	tvrdý
+Small	malý
+Large	veľký
+Light	svetlý
+Dark	tmavý
+FOG SIGNALS	hmlové signály
+Nautophone	nautofón
+Gun	delo
+Explosive	výbuch
+Whistle	píšťala
+Bell	zvón
+Gong	gong
+Siren	siréna
+Reed horn	hmlový roh
+Submarine bell	podvodný zvona
+PORTS and HARBOURS	prístavy a prístaviská
+Yacht harbour	marína
+Harbour Masters office	kapitanát
+Customs  office	colnica
+Prohibited area	zakázaná oblasť
+Dock	prístavný bazén
+Dry dock	suchý dok
+Floating dock	plávajúci dok
+Slip, slipway	sklz
+Breakwater	vlnolam
+More, pier , berth, jetty	nábrežie, molo
+ANCHORAGE	KOTVIŠKO
+Anchorage prohibited	kotvenie zakázané
+Anchorage limit	hranica kotviska
+Spoil ground	ukladisko odpadov
+Submarine cable	podmorský kábel
+Submarine pipe line	podmorské potrubie
+TIDES	Prílivy a odlivy
+Flood	príliv
+Ebb	odliv
+Range	výška prílivu
+Spring tide	sízijsky príliv
+Neap tide	kvadratúrový príliv
+Mean	stredný príliv
+High water	vysoká voda
+Low water	nízka voda
+Sea level	úroveň mora
+Chart datum	nula mapy
+TIDAL STREAMS	prílivové prúdy
+Flod stream	prílivový prúd
+Ebb stream	odlivový prúd
+Slack water	mŕtva voda
+Turn of tide	obrat prílivu
+Rate	rýchlosť prúdu
+Current	prúd
+Fair tide	výhodný príliv
+Foul tide	nevýhodný príliv
+COASTAL NAVIGATION	pobrežná navigácia
+Course	kurz
+Magnetic course	magnetický kurz
+Compass course	kompasový kurz
+True course	skutočný kurz
+Bearing	námer
+Compass bearing	kompasový námer
+True bearing	skutočný námer
+Variation	deklinácia
+Deviation	deviácia
+Leeway	drift
+Leeway angle	uhol driftu
+Allowance for current	oprava na prúd
+Course through the water	kurz smerom k vode
+Course made good	kurz vzhladom ku dnu
+Distance sailed	preplávaná vzdialenosť
+To plot	nakresliť
+Position	poloha
+To take bearing	urobiť námer
+Position line	polohová Ciara
+Transfered position line	prenesená pozíčna Ciara
+Running fix	poloha z doch prenesených námerov
+Estimated position	vypočítaná poloha
+Distance off	vzdialenosť od
+Seaward	v smere mora
+METEROLOGY	meteorológia
+Weather forecast	predpoveď počasia
+weather report	správa o počasí
+area	oblasť
+rise / fall	stúpať / klesať
+steady	držať sa,
+thermometer	teplomer
+temperatura	teplota
+rise / drop	vzrastať /znížovať sa
+velocity	rýchlosť
+low pressure area	oblasť nízkeho tlaku
+trough	brazda nízkeho tlaku
+depression, low	cyklóna, taková níz
+high-pressure area	oblasť vysokého tlaku
+anticykón, high	anticyklóna, tlaková vys
+ridge	výbežok vysokého tlaku
+wedge	klin
+front, cold/warm	frontálny systém teplý studený
+occlusion	okulzia
+fill up	vypĺňa sa
+deepen	prehlbuje sa
+stationary	stabilný
+quickly	rýchlo
+slowly	pomaly
+spreading	rozširovať sa
+settled	stály
+changeable	premenný
+clearing up	vyjasňovať sa
+fine weather	pekné počasie
+SKY	obloha
+Clear sky	čistá obloha
+Cloudy	oblačno
+Overcast	celkom zachmúrená obloha
+High cloud	vysoká oblačnosť
+Low cloud	nízka oblačnosť
+VISIBILITY	viditeľnosť
+Good	dobrá
+Moderate	mierna
+Poor	slabá
+Haze	opar
+Mist	riedka hmla
+Fog	hmla
+WIND	vietor
+Lull	bezvetrie
+Drop	slabnúť
+Decreasing/moderating	slabnúci
+Increasing	silnejúci
+Squall / gust	náraz vetra, poryv
+Sea breeze	morská bríza
+Land breeze	pevninská bríza
+Prevailing wind	prevládzujúci vietor
+Trade winds	pasátové vetry
+Veering	stáčať sa v pravo
+Backing	stáčať sa v ľavo
+Wet	mokrý
+Dry	suchý
+Rain	dážď
+Snow	sneh
+Hail	krupobitie
+Drizzle	mrholenie
+Shower	lejak
+Thunderstorm	búrka
+SEA	more
+Calm	hladká hladina
+Ripples	zvlnená hladina
+Waves, seas	vlny
+Rough sea	rozbúrené more
+Swell	mŕtve vlny
+Crest	chrbát vlny
+Trough	údolie vlny
+Breaking seas	lamajúce sa vlny
+Head seas	vlny z predu
+Following seas	vlny zo zadu
+Short waves	krátke vlny
+Steep	strmé
+SAFETY AT SEA	bezpečnosť na mori
+Fire extinguisher	hasiaci prístroj
+Bell	zvon
+Inflatable life raft	nafukovací zachranný ostrovček
+Lifejacket	záchranná vesta
+Navigation light	navigačné svetlo
+Aldis lamp	Aldisove svetlo
+Signaling pistol	signálna pištoľ
+Parachute flare	padáčiková svetlice
+Hand-held flare	fakla
+Emergency kit	lekárnička
+Sea anchor	drift kotva
+Engine	motor
+Main engine	hlavný motor
+Auxiliary engine	pomocný motor
+Two-stroke engine	dvojtaktný motor
+Four-stroke engine	štvortaktný motor
+Petrol engine	zážihový motor
+Diesel engine	vznetový motor
+Engine bed	motorové lôžko
+Mounting	montáž
+Propeller, screw	lodná skrutka
+Stern tube	stevenová rura
+Plummer block	odporové ložisko
+Propeller shaft	vrtuľový hriadeľ
+Flexible coupling	pružná spojka
+Driving shaft	hnací hriadeľ
+Gearbox	prevodovka
+Clutch	spojka
+Cylinder	valec
+Cylinder head	hlava valca
+Cylinder block	blok motora
+Liner	vložka valca
+Piston	piest
+Compression ring	tesniaci piestny kružok
+Oil ring	stierací piestny kružok
+Gudgeon pin	piestny čap
+Connection rod	ojnička
+Big end bearing	ložisko kľukového hriadeľa
+Crankshaft	kľukový hriadeľ
+Main bearing	hlavné ložisko
+Flywheel	zotrvačník
+Camshaft	vačkový hriadeľ
+Inlet valve	sací ventil
+Exhaust valve	výfukový ventil
+Oil pump	olejové čerpadlo
+Starting handle	startovacia kľuka
+Crankcase	kľuková skriňa
+Water pump	vodná pumpa
+Water jacket	chladiaci plášť motora
+Exhaust	výfuk
+Silencer	tlmič výfuku
+Bilge pump	stokové čerpadlo
+FUEL SYSTEM	palivový systém
+Fuel	palivo
+Petrol	benzín
+Fuel oil	nafta
+Heavy fuel oil	ťažké palivo
+Gas oil	ľahké palivo
+Fuel tank	palivová nádrž
+Fuel lines	palivová inštalácia
+Fuel pump	palivové čerpadlo
+Fuel filter	palivový filter
+Carburetor	karburátor
+Diesel injection	vstrekovanie paliva
+Injection pump	vstrekovacie čerpadlo
+Injector	vstrekovacie zariadenie
+Nozzle	vstreknovacia dyza
+Pressure pipe	tlaková rúrka
+Air filter	vzduchový filter
+Steering	kormidlovanie
+Helm	kormidelné koleso
+Bear away	vyvetrať sa
+Luff up	vyvať
+On course	držať kurz
+Off course	zísť z kurzu
+Alter course	zmeniť kurz
+Answer the helm	reagovať na kormidlo
+Underway	v plavbe
+To make headway	pohybovať sa dopredu
+Becalmed	stáť v bezvetrí
+To drift	driftovať
+Sternway	zadný chod
+Stern wave	zadná vlna
+Full ahead	plný plyn vpred
+Full astern	plný plyn vzad
+Slow ahead	pomaly vpred
+Mooring	vyväzovanie lode
+Wind rode	stáť, kotviť v linii vetra
+Lie alongside	stáť bokom
+Make fast	uviazať lano
+Cast off	odplávať, pustiť lano
+Fend off	odstrániť od mola
+Jetty	molo
+Yacht Club	jachtklub
+Harbor Master	Kapitán prístavu
+Harbor dues	prístavné poplatky
+Depth alongside pier	hĺbka pri nábreží
+Heavy weather	Nepriaznivé počasie
+Tie down a reef	podkasať plachtu
+Roll down a sail	navinúť plachtu
+Shorten sail	zmenšiť plachtu
+Under bare poles	plávať pod "holými" stĺpmi
+Stream a sea anchor	použiť morskú kotvu (drift)
+Heave to	ležať v drifte
+Collision	zrážka
+Shipwreck	stroskotanie lode
+Man overboard	človek cez palubu
+Dismasted	bez stĺpov
+CREW	posádka
+Skipper	veliteľ
+Mate	dôstojník
+Master	veliteľ námornej lode
+Cook	kuchár
+Helmsman	kormidelník
+Seafarer	námorník
+ANCHORING	kotvenie
+Anchor	kotva
+Lower anchor	predná kotva
+Anchor chain	kotvová reťaz
+Let go the anchor	hodiť kotvu
+To weigh anchor	vyťahovať kotvu
+Run out the anchor	vyviesť kotvu
+Holding anchor	kotva drží
+VESSEL DOCUMENTS	lodné doklady
+Certificate of Registry	Registračný list
+International certificate of marine pleasure craft	Medzinárodné osvedčenie námornej rekreačnej loďky
+Log book	lodný denník
+Insurance certificate	poistná zmluva
+Charter party	zmluva o nájme
+Customs clearance	colné vybavenie
