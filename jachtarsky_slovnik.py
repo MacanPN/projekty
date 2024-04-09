@@ -6,7 +6,7 @@ import time
 def change_choice_strategy():
     st.session_state.i = -1
 
-st.title('Translation App')
+st.title('Jachtársky slovník')
 ord = st.radio("Poradie skúšania", options=["porade","náhodne"], on_change=change_choice_strategy)
 
 def get_row():
