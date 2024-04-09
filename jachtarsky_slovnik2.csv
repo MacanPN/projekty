@@ -78,10 +78,10 @@ Freeboard	voľný bok
 RIGGING	TAKELÁŽ
 Standing rigging	pevné lanoví
 Running rigging	pohyblivé lanoví
-Mast	stážen
-Fore mast	predný stážen
-Main mast	hlavný stážen
-Mizzen mast	zadný stážen
+Mast	sťažeň
+Fore mast	predný sťažeň
+Main mast	hlavný sťažeň
+Mizzen mast	zadný sťažeň
 Boom	rahno
 Shroud	bočný steh
 Fore stay	predný steh
@@ -92,7 +92,7 @@ Slide	bežec
 Bowsprite	čelén
 Jim boom	kosatkové rahno
 Spinaker boom	spinákerové rahno
-Jury mast	havarijný stážen
+Jury mast	havarijný sťažeň
 Yard	rahno na veľkej plachetnici
 Halyard	vytah
 Topmast	stážna cnelka
