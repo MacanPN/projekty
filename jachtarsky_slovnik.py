@@ -4,6 +4,10 @@ import random
 
 def change_choice_strategy():
     st.session_state.i = int(st.session_state.co)
+    st.session_state.r = st.session_state.s.iloc[st.session_state.i]
+    st.session_state.eng_text = st.session_state.r['eng']
+    st.session_state.svk_text = ''
+
 
 st.title('Jachtársky slovník')
 
@@ -37,5 +41,15 @@ def next_word():
     st.session_state.svk_text = ''
     st.session_state.eng_text = st.session_state.r['eng']
 
-translate_button = st.button('Translate',key="translate_button", on_click=show_translation)
-next_button = st.button('Next',key="next_button", on_click=next_word)
+def add_word_to_vocabulary():
+    st.session_state.vocab += "\n"+" : ".join(st.session_state.r)
+
+col1, col2, col3 = st.columns([1,1,1])
+with col1:
+    translate_button = st.button('Translate',key="translate_button", on_click=show_translation)
+with col2:
+    next_button = st.button('Next',key="next_button", on_click=next_word)
+with col3:
+    vocab_button = st.button('Do slovníka', on_click=add_word_to_vocabulary)
+
+vocab = st.text_area('Váš slovník', key='vocab')
